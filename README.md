@@ -1,5 +1,9 @@
 # Hugging Face w. DGX Spark
 
+<p align="center">
+  <img src="docs/hf-with-dgx-spark-banner.png" alt="Hugging Face w. DGX Spark banner" width="1200">
+</p>
+
 > 내 책상 위의 실험이, 다음 사용자의 시작이 되도록.
 
 가짜연구소(Pseudo Lab) Hugging Face KREW와 함께 NVIDIA DGX Spark에서 Hugging Face 모델을 직접 실행하고, 실제 사용자가 겪는 문제를 재현·개선·검증하는 오픈 프로젝트입니다.
